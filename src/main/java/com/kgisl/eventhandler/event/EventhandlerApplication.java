@@ -1,4 +1,4 @@
-package com.kgisl.eventhandler.eventhandler;
+package com.kgisl.eventhandler.event;
 import org.h2.server.web.WebServlet;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
